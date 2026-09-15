@@ -57,13 +57,9 @@ The project includes the following SQL concepts:
 - ORDER BY
 - GROUP BY
 - Aggregate Functions
-- INNER JOIN
-- LEFT JOIN
-- CASE Statements
+- JOINs
 - Subqueries
 - CTEs
-- Date & Time Functions
-- String Functions
 - Sorting and Filtering
 - Revenue Calculations
 - Ranking and Comparative Analysis
