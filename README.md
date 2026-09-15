@@ -4,7 +4,7 @@
 
 This project analyzes pizza sales data using Microsoft SQL Server to answer a series of business-focused questions related to revenue, sales performance, customer ordering patterns, and product performance.
 
-The project covers SQL queries ranging from basic aggregations to more advanced techniques involving multi-table joins, subqueries, CTEs, and ranking.
+The project covers SQL queries ranging from basic aggregations to more advanced techniques involving multi-table joins, subqueries, CTEs, .
 
 ---
 
